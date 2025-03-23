@@ -1,2 +1,2 @@
-# wearly-
+# wearly
 Online clothing store
